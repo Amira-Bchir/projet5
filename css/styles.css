@@ -22,3 +22,64 @@
     padding-left: 80%;
     margin-top: 20%;
 }
+.card-contact{
+    background-color: black;
+    border-radius: 10px;
+}
+.color-orange{
+    color: orange;
+    padding-top: 75%;
+    padding-left: 4%;
+}
+.contact{color:white;
+         padding-left: 4%;
+}
+.arrow-orange{
+    padding-right: 40%;
+    padding-top: 15%;
+    padding-inline: 85%;
+}
+.color-p{
+    background-color: rgba(255, 227, 200, 0.881);
+}
+.btn1:hover{
+    background-color: white;
+    border-bottom: black;
+    color: black;
+}
+.image2{
+    border-radius: 10px;
+}
+.btnad{
+    border: 1px solid black;
+    background-color: rgba(255, 227, 200, 0.881);
+    color: black;
+    border-radius: 30px;
+}
+.btnad:hover{
+    border-radius: 30px;
+    background-color: black;
+    color: white;    
+}
+.titre{
+    color: red;
+    font-size: 70px;
+    margin-bottom: 10%;
+}
+input ,select ,textarea {
+    background-color: azure !important;
+    border-radius: 10px !important;
+    border: black 2px solid !important;
+
+}
+#but{
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+#but:hover{
+    background-color: white;
+    color: black;
+    width: 100%;
+    border: 2px black solid ;
+}
