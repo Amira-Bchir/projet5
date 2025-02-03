@@ -30,9 +30,11 @@
     color: orange;
     padding-top: 75%;
     padding-left: 4%;
+    padding-top: 90px;
 }
 .contact{color:white;
          padding-left: 4%;
+         padding-top: 100px;
 }
 .arrow-orange{
     padding-right: 40%;
@@ -82,4 +84,8 @@ input ,select ,textarea {
     color: black;
     width: 100%;
     border: 2px black solid ;
+}
+.btnhover:hover{
+    color: rgb(0, 0, 0);
+background-color: white;
 }
