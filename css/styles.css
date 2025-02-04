@@ -85,7 +85,13 @@ input ,select ,textarea {
     width: 100%;
     border: 2px black solid ;
 }
-.btnhover:hover{
-    color: rgb(0, 0, 0);
-background-color: white;
+
+button{
+    color: black;
+    background-color: white;
+}
+button:hover{
+    color: white;
+    background-color: black;
+    border: 2px black solid;
 }
